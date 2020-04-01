@@ -1,0 +1,15 @@
+DATASET TITLE,Unemployment rates by education level
+COMMENTS,"Unemployment rates are given for men and women and for the three levels of education, i.e. Primary, Secondary and Tertiary."
+DATASET CODE,RIO_UNEMP_EDLEVEL
+SOURCE URL,http://appsso.eurostat.ec.europa.eu/nui/show.do
+EXPLANATORY TEXT,http://ec.europa.eu/eurostat/cache/metadata/en/lfsa_esms.htm
+NUMBER OF VALUES,5543
+SOURCE DATASET CODE,lfsa_urgaed
+DATA PROVIDER,EUROSTAT - Statistical Office of the European Union
+CHANGE IN THE STRUCTURE OF THE DATASET,2020/02/27
+THE END OF DATA VALUES,2018
+THE START OF DATA VALUES,2000
+DATA UPDATED AT DATA PROVIDER,2020/03/06
+UPDATED IN RIO,2020/03/07
+RIO DOWNLOAD LINK,https://rio.jrc.ec.europa.eu/datasets/RIO_UNEMP_EDLEVEL.zip
+-----------------------------------------------------
